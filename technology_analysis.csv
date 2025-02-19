@@ -1,0 +1,38 @@
+Technology,Mentions
+aws,232
+docker,112
+kubernetes,106
+postgres,95
+gcp,86
+azure,66
+ci/cd,58
+redis,54
+terraform,45
+mongodb,44
+serverless,28
+kafka,24
+vercel,22
+lambda,21
+elasticsearch,21
+supabase,18
+ec2,16
+ecs,15
+datadog,14
+grafana,11
+prometheus,11
+pulumi,9
+cloudflare,9
+eks,8
+cloud run,8
+helm,7
+fargate,6
+ansible,6
+jenkins,6
+rabbitmq,5
+step functions,4
+cloudformation,4
+cloud functions,3
+istio,2
+linkerd,2
+cloudfront,1
+newrelic,1
